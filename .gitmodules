@@ -1,0 +1,6 @@
+[submodule "bmarxiv"]
+	path = bmarxiv
+	url = https://github.com/kxxdhdn/bmarxiv.git
+[submodule "nextjs-notion-starter-kit"]
+	path = nextjs-notion-starter-kit
+	url = https://github.com/kxxdhdn/nextjs-notion-starter-kit.git
