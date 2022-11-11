@@ -1,3 +1,3 @@
 # MadonnaLitta
-personal page
-bmarxiv
+personal page: astrodust.fr
+bmarxiv: bmarxiv.astrodust.fr
